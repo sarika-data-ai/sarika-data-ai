@@ -15,9 +15,5 @@ Founder @ Dataintellico LLC | Franklin, TN | she/her
 - Data governance & quality
 - Stakeholder leadership and delivery
 
-## Featured repositories
-- **CRISP-DM Analytics Example** — End-to-end workflow and documentation
-- **Intro-to-Github** — GitHub basics repo from coursework
-
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/sarika-agarwal/
