@@ -1,16 +1,23 @@
-## Hi there 👋
+# Sarika Agarwal
 
-<!--
-**sarika-data-ai/sarika-data-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & AI leader focused on enterprise analytics, ML-driven decision support, and responsible AI.  
+Founder @ Dataintellico LLC | Franklin, TN | she/her
 
-Here are some ideas to get you started:
+## What I do
+- Build and scale enterprise analytics and AI products
+- Translate business goals into measurable data outcomes
+- Drive governance, quality, and responsible AI practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core strengths
+- Analytics & AI strategy
+- Data products and experimentation
+- Machine learning foundations
+- Data governance & quality
+- Stakeholder leadership and delivery
+
+## Featured repositories
+- **CRISP-DM Analytics Example** — End-to-end workflow and documentation
+- **Intro-to-Github** — GitHub basics repo from coursework
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/sarika-agarwal/
